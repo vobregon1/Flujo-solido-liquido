@@ -131,7 +131,7 @@ with st.sidebar:
             <p style='font-size: 14px; color: black;'>
             Mecánica de Fluidos II<br>
             Profesor: Pedro Orozco Cury<br>
-            Realizado por: Grupo 7
+            Realizado por: Grupo 6
             </p>
             """,
             unsafe_allow_html=True
